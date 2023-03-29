@@ -1,0 +1,51 @@
+body{
+    background-color: gray;
+}
+
+div{
+    justify-content: center;
+    margin-left: 600px;
+    margin-right: auto;
+}
+
+.kod{
+    display: flex;
+    color: violet;
+    text-shadow: 2px 2px #ff0000;
+    text-decoration: underline;
+    text-decoration-color: red;
+}
+
+form{
+    display: flex;
+    
+    
+}
+.inp{
+    display: flex;
+
+}
+
+.it{
+    font-size: 25px;
+    color: rgb(22, 235, 185);
+}
+
+.btn,.inp {
+    border: none;
+    color: rgb(14, 9, 9);
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 4px;
+
+  }
+
+
+  .fo{
+    display: flex;
+  }
